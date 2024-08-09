@@ -1,0 +1,14 @@
+c:\Users\bookk\Desktop\csharp\Number\integer\bin\Debug\net8.0\integer.exe
+c:\Users\bookk\Desktop\csharp\Number\integer\bin\Debug\net8.0\integer.deps.json
+c:\Users\bookk\Desktop\csharp\Number\integer\bin\Debug\net8.0\integer.runtimeconfig.json
+c:\Users\bookk\Desktop\csharp\Number\integer\bin\Debug\net8.0\integer.dll
+c:\Users\bookk\Desktop\csharp\Number\integer\bin\Debug\net8.0\integer.pdb
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.AssemblyInfoInputs.cache
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.AssemblyInfo.cs
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.csproj.CoreCompileInputs.cache
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.dll
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\refint\integer.dll
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.pdb
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\integer.genruntimeconfig.cache
+c:\Users\bookk\Desktop\csharp\Number\integer\obj\Debug\net8.0\ref\integer.dll
